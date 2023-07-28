@@ -24,7 +24,7 @@
 </p>
 
 ## Screenshots
-![Example screenshot](./src/img/miniblog.PNG)
+![Example screenshot](./src/img/miniblog.png)
 
 ## Setup
 ### Getting Started with Create React App
