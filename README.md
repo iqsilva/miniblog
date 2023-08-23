@@ -1,5 +1,6 @@
 # Project Name
 > React and Firebase Mini Blog App.
+> live version here: https://miniblog-iqsilva.vercel.app/
 
 ## Table of Contents
 * [General Info](#general-information)
